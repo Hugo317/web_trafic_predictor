@@ -1,7 +1,7 @@
 [project]
 name = "web-trafic-predictor"
 version = "0.1.0"
-description = "Add your description here"
+description = "Wikipedia web-traffic time-series forecasting with GRU models in PyTorch"
 readme = "README.md"
 authors = [
     { name = "Hugo Caravlho", email = "hugomnc317@gmail.com" }
